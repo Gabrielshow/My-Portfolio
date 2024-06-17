@@ -10,7 +10,7 @@ const Footer = () => {
             ADEFELA GABRIEL
           </p>
           <p className="font-playfair text-md text-yellow">
-            ©2023 GABRIEL. All Rights Reserved.
+            ©2024 GABRIEL. All Rights Reserved.
           </p>
         </div>
       </div>

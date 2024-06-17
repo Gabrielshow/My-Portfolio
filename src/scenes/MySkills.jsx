@@ -70,7 +70,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          I have a two year experience in React, am currently working on projects both in Vue and Angular. I have also been building Machine Learning models for the past six months.
+          I have four years experience in React, Vue, Svelte. Am currently working on projects in Elixir and ElectronJs. I also build Machine Learning Models.
           </p>
         </motion.div>
 
