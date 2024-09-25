@@ -11,7 +11,7 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.twitter.com"
+        href="https://www.github.com/gabrielshow"
         target="_blank"
         rel="noreferrer"
       >
@@ -19,7 +19,7 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.facebook.com"
+        href="https://www.github.com/gabrielshow"
         target="_blank"
         rel="noreferrer"
       >
@@ -27,7 +27,7 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.instagram.com"
+        href="https://www.github.com/gabrielshow"
         target="_blank"
         rel="noreferrer"
       >

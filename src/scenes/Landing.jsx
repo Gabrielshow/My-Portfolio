@@ -18,16 +18,16 @@ const Landing = ({ setSelectedPage }) => {
             before:w-full before:max-w-[400px] md:before:max-w-[600px] before:h-full before:border-2 before:border-blue before:z-[-1]"
           >
             <img
-              alt="profile"
+              alt="fela"
               className="hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
-              src="assets/mappollonos.jpeg"
+              src="assets/mappollonos.jpg"
             />
           </div>
         ) : (
           <img
-            alt="profile"
+            alt="fela"
             className="z-10 w-full max-w-[400px] md:max-w-[600px]"
-            src="assets/mappollonos.jpeg"
+            src="assets/mappollonos.jpg"
           />
         )}
       </div>
@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Fullstack Developer, Software Developer, Data Analyst and Blockchain Developer.
+            Fullstack Developer, Software Developer, Forex Analyst and Blockchain Developer.
           </p>
         </motion.div>
 
